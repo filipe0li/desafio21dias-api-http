@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Nj8yhbu00sRlQHYBeDoUDkcSobHrzMywDNX14qoLhGeRQOz9QIO28PE750JWGijN8xakcLLNWoMbM4O9ukHfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\filip\\Downloads\\study\\desafio21dias-api\\desafio21dias-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\filip\\.nuget\\packages\\pdfsharpcore\\1.2.17\\pdfsharpcore.1.2.17.nupkg.sha512",
+    "C:\\Users\\filip\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta0013\\sixlabors.fonts.1.0.0-beta0013.nupkg.sha512",
+    "C:\\Users\\filip\\.nuget\\packages\\sixlabors.imagesharp\\1.0.0\\sixlabors.imagesharp.1.0.0.nupkg.sha512",
+    "C:\\Users\\filip\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\filip\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.0\\system.runtime.compilerservices.unsafe.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
